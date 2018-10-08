@@ -8,6 +8,7 @@ Despite of being hidden players can still see the moves but the one who wants to
 		
 ## __________________RULES__________________
 
+```
 1.Intially both the player will be given 10 points.
 
 2.Each time player uses DISPLAY 4 points will be deducted.
@@ -17,3 +18,4 @@ Despite of being hidden players can still see the moves but the one who wants to
 4.Any of the player making a row or a coloumn or a diagonal of either X or O first will be given 10 points.
 
 5.After comparing overall points winner will be decided.
+``` 
