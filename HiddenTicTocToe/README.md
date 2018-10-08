@@ -6,7 +6,7 @@ The idea behind of calling it as Hidden is that the player can not see the game 
 Its all about in mind calculation. 
 Despite of being hidden players can still see the moves but the one who wants to see the moves will have to deduct some of his points.
 		
-		## __________________RULES__________________
+## __________________RULES__________________
 
 1.Intially both the player will be given 10 points.
 
