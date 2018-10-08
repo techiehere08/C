@@ -19,3 +19,7 @@ Despite of being hidden players can still see the moves but the one who wants to
 
 5.After comparing overall points winner will be decided.
 ``` 
+## Also see 
+
+* [Mail](https://github.com/anandhere8/php/tree/master/Mail) - Mail via SMTP Server
+* [SMS](https://github.com/anandhere8/php/tree/master/SMS) - SmS using way2sms API
