@@ -1,12 +1,12 @@
 # THE HIDDEN_TIC_TOC_TOE
 
 The various concepts of C programming language is being used in making this Hidden Tic Toc Toe game.
-This game is same as the origin Tic Toc Toe with some addition rules.
+This game is same as the original Tic Toc Toe with some addition rules.
 The idea behind of calling it as Hidden is that the player can not see the game which means they have to remember the moves made by them as well as the moves made by the opponent.
 Its all about in mind calculation. 
 Despite of being hidden players can still see the moves but the one who wants to see the moves will have to deduct some of his points.
 		
-		#__________________RULES__________________
+		## __________________RULES__________________
 
 1.Intially both the player will be given 10 points.
 
