@@ -10,7 +10,8 @@ void main()
 {
 int ch;
 printf("\t\t*****************************************	\n\t\t*\t\t\t\t\t*\n\t\t*\t\t\t\t\t*\n\t\t*\t  THE HIDDEN TIC TOC TOE\t*\n\t\t*\t\t\t\t\t*\n\t\t*\t\t\t\t\t*	\n\t\t*****************************************	\n\n\t\t__________________RULES__________________\n\n\n1.Intially both the player will be given 10 points.\n\n2.Each time player uses DISPLAY 4 points will be deducted.\n\n3.Each time player chooses already filled place his 2 points will be deducted and also loses the chance.\n\n4.Any of the player making a row or a coloumn or a diagonal of either X or O first will be given 10 points.\n\n5.After comparing overall points winner will be decided.\n");
-while(1)
+display(1);
+	while(1)
 {
 	printf("\n====>Player %d,chance:\n\n",player);
 	printf("Enter your choice\n\n1.Display\n2.Play\n3.Exit");
